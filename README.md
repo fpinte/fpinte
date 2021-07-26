@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fpinte
 - 👀 I’m interested in java, js , R, spring, react and a lot of stuff to discover
 - 🌱 I’m currently learning R & react (when i've got time)
-- 💞️ I’m looking to collaborate on nothing today
+
 
 
 <!---
